@@ -56,11 +56,11 @@ body {
 	color: black;
 	font-family: 'Josefin Sans', sans-serif;
 	letter-spacing: 30px;
-	opacity: 0.7;
+	opacity: 0.8;
 	margin-top: 10px;
 	z-index: 2;
 	position: relative;
-	margin: -200px auto;
+	margin: -250px auto;
 	line-height: 50px;
 }
 /* Featurette customization */
