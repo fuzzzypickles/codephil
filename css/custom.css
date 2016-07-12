@@ -49,3 +49,18 @@ body {
 	letter-spacing: 30px;
 	opacity: 0.7;
 }
+
+/* Featurette customization */
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 60px;
+	font-weight: 100;
+}
+
+.col-md-push-5 {
+	left: 25%;
+}
+
+.paragraph {
+	width: 50%;
+}
