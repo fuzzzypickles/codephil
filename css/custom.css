@@ -64,3 +64,12 @@ h1 {
 .lead {
 	width: 135%;
 }
+
+a {
+	color: #333;
+}
+
+a:focus, a:hover {
+	color: #333;
+	text-decoration: none;
+}
