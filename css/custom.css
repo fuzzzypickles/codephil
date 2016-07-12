@@ -73,3 +73,10 @@ a:focus, a:hover {
 	color: #333;
 	text-decoration: none;
 }
+.headshot-container {
+	width: 25%;
+	float: left;
+}
+.trailing {
+	margin-bottom: 40px;
+}
