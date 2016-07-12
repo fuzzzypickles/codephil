@@ -2,6 +2,39 @@ body {
 	margin: 50px 0;
 }
 
+/* Navbar customizations */
+.navbar-fixed-top {
+	border-width: 0px 0 0;
+}
+
+.navbar-default {
+	background-color: #0097A7;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+.active {
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+.navbar-default .navbar-brand {
+	color: white;
+	font-size: 25px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+	color: black;
+}
+/*.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	color: white;
+	background-color: #4DD0E1;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
+*/
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+/* Main Banner customization */
+
 .jumbotron {
 	background-color: #00BCD4;    
 	padding-top: 60px;
@@ -12,6 +45,7 @@ body {
 	text-align: center;
 	font-size: 110px;
 	color: black;
-	font-family: 'Pompiere', sans-serif;
-	letter-spacing: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: 30px;
+	opacity: 0.7;
 }
