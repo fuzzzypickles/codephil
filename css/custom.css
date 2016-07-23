@@ -89,6 +89,7 @@ a:focus, a:hover {
 .headshot-container {
 	width: 25%;
 	float: left;
+	padding-right: 2%;
 }
 .trailing {
 	margin-bottom: 40px;
